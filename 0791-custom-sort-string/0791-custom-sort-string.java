@@ -3,7 +3,7 @@
 class Solution {
     public String customSortString(String order, String s) {
         Map<Character, Integer> map = new HashMap<>();
-        String ans = "";
+        StringBuilder ans = new StringBuilder() ;
         
         //MAPPING FREQ FOR STRING --> S
         for(char c: s.toCharArray()){
@@ -15,7 +15,7 @@ class Solution {
             if(map.containsKey(c)){
                 int x = map.get(c);
                 while(x > 0){
-                    ans += c;
+                    ans.append(c) ;
                     x--;
                 }
                 map.remove(c);
@@ -24,10 +24,10 @@ class Solution {
         
         for(var key : map.keySet()) {
             int n = map.get(key) ; 
-            while(n-- > 0) ans += key ;
+            while(n-- > 0) ans.append(key) ;
         }
         
         
-        return ans;
+        return ans.toString();
     }
 }
