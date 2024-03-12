@@ -4,7 +4,6 @@ class Solution {
     public String customSortString(String order, String s) {
         Map<Character, Integer> map = new HashMap<>();
         String ans = "";
-        int[] freq = new int[26];
         
         //MAPPING FREQ FOR STRING --> S
         for(char c: s.toCharArray()){
@@ -23,20 +22,11 @@ class Solution {
             }
         }
         
-        if(!map.isEmpty()){
-            //MAPPING LEFTOVER FREQUENCY
-            for(char c: map.keySet()){
-                freq[c - 'a'] = map.get(c);
-            }
-        }else{
-            return ans;
+        for(var key : map.keySet()) {
+            int n = map.get(key) ; 
+            while(n-- > 0) ans += key ;
         }
-        for(int i=0 ; i<26 ; i++){
-            while(freq[i] > 0){
-                ans += (char)(i + 'a');
-                freq[i]--;
-            }
-        }
+        
         
         return ans;
     }
