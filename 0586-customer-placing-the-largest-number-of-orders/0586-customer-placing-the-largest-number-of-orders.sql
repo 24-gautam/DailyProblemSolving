@@ -1,0 +1,7 @@
+/* Write your T-SQL query statement below */
+
+
+SELECT TOP 1 CUSTOMER_NUMBER 
+FROM ORDERS 
+GROUP BY CUSTOMER_NUMBER 
+ORDER BY COUNT(*) DESC
