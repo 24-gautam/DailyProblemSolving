@@ -7,4 +7,9 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [3612-adjacent-increasing-subarrays-detection-i](https://github.com/24-gautam/DailyProblemSolving/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
+| [0001-two-sum](https://github.com/24-gautam/DailyProblemSolving/tree/master/0001-two-sum) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/24-gautam/DailyProblemSolving/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
