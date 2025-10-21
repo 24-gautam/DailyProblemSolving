@@ -7,8 +7,6 @@ class Solution:
         
         low , high = 0 , len(nums) // 2 
 
-        print(maxIncSubArr)
-
         while low <= high : 
             mid = low + (high - low) // 2 
 
