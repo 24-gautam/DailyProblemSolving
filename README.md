@@ -8,6 +8,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [3612-adjacent-increasing-subarrays-detection-i](https://github.com/24-gautam/DailyProblemSolving/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
 | [0001-two-sum](https://github.com/24-gautam/DailyProblemSolving/tree/master/0001-two-sum) |
+| [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/24-gautam/DailyProblemSolving/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -24,6 +25,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/24-gautam/DailyProblemSolving/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/24-gautam/DailyProblemSolving/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
 ## Binary Tree
 |  |
 | ------- |
