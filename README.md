@@ -30,4 +30,24 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/24-gautam/DailyProblemSolving/tree/master/0230-kth-smallest-element-in-a-bst) |
+## Math
+|  |
+| ------- |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/24-gautam/DailyProblemSolving/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
+## String
+|  |
+| ------- |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/24-gautam/DailyProblemSolving/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
+## Simulation
+|  |
+| ------- |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/24-gautam/DailyProblemSolving/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
+## Combinatorics
+|  |
+| ------- |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/24-gautam/DailyProblemSolving/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
+## Number Theory
+|  |
+| ------- |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/24-gautam/DailyProblemSolving/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 <!---LeetCode Topics End-->
