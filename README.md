@@ -34,6 +34,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/24-gautam/DailyProblemSolving/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
+| [1817-calculate-money-in-leetcode-bank](https://github.com/24-gautam/DailyProblemSolving/tree/master/1817-calculate-money-in-leetcode-bank) |
 ## String
 |  |
 | ------- |
