@@ -10,6 +10,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0001-two-sum](https://github.com/24-gautam/DailyProblemSolving/tree/master/0001-two-sum) |
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/24-gautam/DailyProblemSolving/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/24-gautam/DailyProblemSolving/tree/master/3616-make-array-elements-equal-to-zero) |
+| [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/24-gautam/DailyProblemSolving/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -57,4 +58,20 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [3616-make-array-elements-equal-to-zero](https://github.com/24-gautam/DailyProblemSolving/tree/master/3616-make-array-elements-equal-to-zero) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/24-gautam/DailyProblemSolving/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
+## Stack
+|  |
+| ------- |
+| [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/24-gautam/DailyProblemSolving/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
+## Greedy
+|  |
+| ------- |
+| [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/24-gautam/DailyProblemSolving/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
+## Monotonic Stack
+|  |
+| ------- |
+| [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/24-gautam/DailyProblemSolving/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 <!---LeetCode Topics End-->
