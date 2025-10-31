@@ -37,6 +37,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/24-gautam/DailyProblemSolving/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/24-gautam/DailyProblemSolving/tree/master/1817-calculate-money-in-leetcode-bank) |
+| [0342-power-of-four](https://github.com/24-gautam/DailyProblemSolving/tree/master/0342-power-of-four) |
 ## String
 |  |
 | ------- |
@@ -74,4 +75,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/24-gautam/DailyProblemSolving/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0342-power-of-four](https://github.com/24-gautam/DailyProblemSolving/tree/master/0342-power-of-four) |
+## Recursion
+|  |
+| ------- |
+| [0342-power-of-four](https://github.com/24-gautam/DailyProblemSolving/tree/master/0342-power-of-four) |
 <!---LeetCode Topics End-->
