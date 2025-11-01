@@ -11,6 +11,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/24-gautam/DailyProblemSolving/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/24-gautam/DailyProblemSolving/tree/master/3616-make-array-elements-equal-to-zero) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/24-gautam/DailyProblemSolving/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
+| [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/24-gautam/DailyProblemSolving/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -28,6 +29,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/24-gautam/DailyProblemSolving/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/24-gautam/DailyProblemSolving/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
+| [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/24-gautam/DailyProblemSolving/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 ## Binary Tree
 |  |
 | ------- |
@@ -59,6 +61,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [3616-make-array-elements-equal-to-zero](https://github.com/24-gautam/DailyProblemSolving/tree/master/3616-make-array-elements-equal-to-zero) |
+| [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/24-gautam/DailyProblemSolving/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -83,4 +86,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0342-power-of-four](https://github.com/24-gautam/DailyProblemSolving/tree/master/0342-power-of-four) |
+## Sliding Window
+|  |
+| ------- |
+| [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/24-gautam/DailyProblemSolving/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
+## Sorting
+|  |
+| ------- |
+| [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/24-gautam/DailyProblemSolving/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 <!---LeetCode Topics End-->
