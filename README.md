@@ -12,10 +12,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3616-make-array-elements-equal-to-zero](https://github.com/24-gautam/DailyProblemSolving/tree/master/3616-make-array-elements-equal-to-zero) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/24-gautam/DailyProblemSolving/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/24-gautam/DailyProblemSolving/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
+| [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/24-gautam/DailyProblemSolving/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/24-gautam/DailyProblemSolving/tree/master/0001-two-sum) |
+| [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/24-gautam/DailyProblemSolving/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Tree
 |  |
 | ------- |
@@ -94,4 +96,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/24-gautam/DailyProblemSolving/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
+## Linked List
+|  |
+| ------- |
+| [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/24-gautam/DailyProblemSolving/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 <!---LeetCode Topics End-->
