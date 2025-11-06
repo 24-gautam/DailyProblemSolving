@@ -45,6 +45,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1817-calculate-money-in-leetcode-bank](https://github.com/24-gautam/DailyProblemSolving/tree/master/1817-calculate-money-in-leetcode-bank) |
 | [0342-power-of-four](https://github.com/24-gautam/DailyProblemSolving/tree/master/0342-power-of-four) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/24-gautam/DailyProblemSolving/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
+| [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/24-gautam/DailyProblemSolving/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 ## String
 |  |
 | ------- |
@@ -106,4 +107,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/24-gautam/DailyProblemSolving/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
+| [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/24-gautam/DailyProblemSolving/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 <!---LeetCode Topics End-->
