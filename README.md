@@ -46,6 +46,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0342-power-of-four](https://github.com/24-gautam/DailyProblemSolving/tree/master/0342-power-of-four) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/24-gautam/DailyProblemSolving/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/24-gautam/DailyProblemSolving/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
+| [2288-count-operations-to-obtain-zero](https://github.com/24-gautam/DailyProblemSolving/tree/master/2288-count-operations-to-obtain-zero) |
 ## String
 |  |
 | ------- |
@@ -56,6 +57,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/24-gautam/DailyProblemSolving/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/24-gautam/DailyProblemSolving/tree/master/3616-make-array-elements-equal-to-zero) |
+| [2288-count-operations-to-obtain-zero](https://github.com/24-gautam/DailyProblemSolving/tree/master/2288-count-operations-to-obtain-zero) |
 ## Combinatorics
 |  |
 | ------- |
