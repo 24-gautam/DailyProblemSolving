@@ -53,12 +53,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/24-gautam/DailyProblemSolving/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/24-gautam/DailyProblemSolving/tree/master/1700-minimum-time-to-make-rope-colorful) |
+| [2260-divide-a-string-into-groups-of-size-k](https://github.com/24-gautam/DailyProblemSolving/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 ## Simulation
 |  |
 | ------- |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/24-gautam/DailyProblemSolving/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/24-gautam/DailyProblemSolving/tree/master/3616-make-array-elements-equal-to-zero) |
 | [2288-count-operations-to-obtain-zero](https://github.com/24-gautam/DailyProblemSolving/tree/master/2288-count-operations-to-obtain-zero) |
+| [2260-divide-a-string-into-groups-of-size-k](https://github.com/24-gautam/DailyProblemSolving/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 ## Combinatorics
 |  |
 | ------- |
