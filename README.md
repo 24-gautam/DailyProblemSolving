@@ -16,11 +16,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/24-gautam/DailyProblemSolving/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/24-gautam/DailyProblemSolving/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/24-gautam/DailyProblemSolving/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
+| [2274-keep-multiplying-found-values-by-two](https://github.com/24-gautam/DailyProblemSolving/tree/master/2274-keep-multiplying-found-values-by-two) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/24-gautam/DailyProblemSolving/tree/master/0001-two-sum) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/24-gautam/DailyProblemSolving/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
+| [2274-keep-multiplying-found-values-by-two](https://github.com/24-gautam/DailyProblemSolving/tree/master/2274-keep-multiplying-found-values-by-two) |
 ## Tree
 |  |
 | ------- |
@@ -61,6 +63,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3616-make-array-elements-equal-to-zero](https://github.com/24-gautam/DailyProblemSolving/tree/master/3616-make-array-elements-equal-to-zero) |
 | [2288-count-operations-to-obtain-zero](https://github.com/24-gautam/DailyProblemSolving/tree/master/2288-count-operations-to-obtain-zero) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/24-gautam/DailyProblemSolving/tree/master/2260-divide-a-string-into-groups-of-size-k) |
+| [2274-keep-multiplying-found-values-by-two](https://github.com/24-gautam/DailyProblemSolving/tree/master/2274-keep-multiplying-found-values-by-two) |
 ## Combinatorics
 |  |
 | ------- |
@@ -108,6 +111,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/24-gautam/DailyProblemSolving/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
+| [2274-keep-multiplying-found-values-by-two](https://github.com/24-gautam/DailyProblemSolving/tree/master/2274-keep-multiplying-found-values-by-two) |
 ## Linked List
 |  |
 | ------- |
