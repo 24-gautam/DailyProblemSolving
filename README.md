@@ -25,6 +25,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/24-gautam/DailyProblemSolving/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/24-gautam/DailyProblemSolving/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/24-gautam/DailyProblemSolving/tree/master/2059-unique-length-3-palindromic-subsequences) |
+| [1930-unique-length-3-palindromic-subsequences](https://github.com/24-gautam/DailyProblemSolving/tree/master/1930-unique-length-3-palindromic-subsequences) |
 ## Tree
 |  |
 | ------- |
@@ -59,6 +60,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/24-gautam/DailyProblemSolving/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/24-gautam/DailyProblemSolving/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/24-gautam/DailyProblemSolving/tree/master/2059-unique-length-3-palindromic-subsequences) |
+| [1930-unique-length-3-palindromic-subsequences](https://github.com/24-gautam/DailyProblemSolving/tree/master/1930-unique-length-3-palindromic-subsequences) |
 ## Simulation
 |  |
 | ------- |
@@ -81,6 +83,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3616-make-array-elements-equal-to-zero](https://github.com/24-gautam/DailyProblemSolving/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/24-gautam/DailyProblemSolving/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/24-gautam/DailyProblemSolving/tree/master/2059-unique-length-3-palindromic-subsequences) |
+| [1930-unique-length-3-palindromic-subsequences](https://github.com/24-gautam/DailyProblemSolving/tree/master/1930-unique-length-3-palindromic-subsequences) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -104,6 +107,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0342-power-of-four](https://github.com/24-gautam/DailyProblemSolving/tree/master/0342-power-of-four) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/24-gautam/DailyProblemSolving/tree/master/2059-unique-length-3-palindromic-subsequences) |
+| [1930-unique-length-3-palindromic-subsequences](https://github.com/24-gautam/DailyProblemSolving/tree/master/1930-unique-length-3-palindromic-subsequences) |
 ## Recursion
 |  |
 | ------- |
