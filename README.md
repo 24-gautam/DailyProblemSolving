@@ -19,6 +19,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2274-keep-multiplying-found-values-by-two](https://github.com/24-gautam/DailyProblemSolving/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/24-gautam/DailyProblemSolving/tree/master/0717-1-bit-and-2-bit-characters) |
 | [1437-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/24-gautam/DailyProblemSolving/tree/master/1437-check-if-all-1s-are-at-least-length-k-places-away) |
+| [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/24-gautam/DailyProblemSolving/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 ## Hash Table
 |  |
 | ------- |
@@ -27,6 +28,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2274-keep-multiplying-found-values-by-two](https://github.com/24-gautam/DailyProblemSolving/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/24-gautam/DailyProblemSolving/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/24-gautam/DailyProblemSolving/tree/master/1930-unique-length-3-palindromic-subsequences) |
+| [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/24-gautam/DailyProblemSolving/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 ## Tree
 |  |
 | ------- |
@@ -85,6 +87,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/24-gautam/DailyProblemSolving/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/24-gautam/DailyProblemSolving/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/24-gautam/DailyProblemSolving/tree/master/1930-unique-length-3-palindromic-subsequences) |
+| [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/24-gautam/DailyProblemSolving/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 ## Dynamic Programming
 |  |
 | ------- |
