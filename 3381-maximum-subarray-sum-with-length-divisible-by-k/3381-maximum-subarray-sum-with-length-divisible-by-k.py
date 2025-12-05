@@ -1,14 +1,12 @@
 class Solution:
     def maxSubarraySum(self, nums: List[int], k: int) -> int:
-        prefix, res = nums[::], float('-inf')
-
-        for i in range(1, len(nums)) : 
-            prefix[i] += prefix[i-1] 
+        n=len(nums)
+        minS=[inf]*(k-1)+[0]
+        prefix, ans=0, -inf
+        for i, x in enumerate(nums):
+            prefix+=x
+            ik=i%k
+            ans=max(ans, prefix-minS[ik])
+            minS[ik]=min(prefix, minS[ik])
+        return ans
         
-        for i in range(k) : 
-            s = 0 
-            for j in range(k-1 + i, len(nums), k) : 
-                s = max(s + prefix[j] - (prefix[j-k] if j - k >= 0 else 0), prefix[j] - (prefix[j-k] if j - k >= 0 else 0))
-                res = max(res, s)
-
-        return res
