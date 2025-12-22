@@ -21,6 +21,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1437-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/24-gautam/DailyProblemSolving/tree/master/1437-check-if-all-1s-are-at-least-length-k-places-away) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/24-gautam/DailyProblemSolving/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [0944-delete-columns-to-make-sorted](https://github.com/24-gautam/DailyProblemSolving/tree/master/0944-delete-columns-to-make-sorted) |
+| [0955-delete-columns-to-make-sorted-ii](https://github.com/24-gautam/DailyProblemSolving/tree/master/0955-delete-columns-to-make-sorted-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -66,6 +67,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/24-gautam/DailyProblemSolving/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/24-gautam/DailyProblemSolving/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [0944-delete-columns-to-make-sorted](https://github.com/24-gautam/DailyProblemSolving/tree/master/0944-delete-columns-to-make-sorted) |
+| [0955-delete-columns-to-make-sorted-ii](https://github.com/24-gautam/DailyProblemSolving/tree/master/0955-delete-columns-to-make-sorted-ii) |
 ## Simulation
 |  |
 | ------- |
@@ -104,6 +106,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/24-gautam/DailyProblemSolving/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/24-gautam/DailyProblemSolving/tree/master/1700-minimum-time-to-make-rope-colorful) |
+| [0955-delete-columns-to-make-sorted-ii](https://github.com/24-gautam/DailyProblemSolving/tree/master/0955-delete-columns-to-make-sorted-ii) |
 ## Monotonic Stack
 |  |
 | ------- |
