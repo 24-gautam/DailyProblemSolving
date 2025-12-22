@@ -20,6 +20,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0717-1-bit-and-2-bit-characters](https://github.com/24-gautam/DailyProblemSolving/tree/master/0717-1-bit-and-2-bit-characters) |
 | [1437-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/24-gautam/DailyProblemSolving/tree/master/1437-check-if-all-1s-are-at-least-length-k-places-away) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/24-gautam/DailyProblemSolving/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
+| [0944-delete-columns-to-make-sorted](https://github.com/24-gautam/DailyProblemSolving/tree/master/0944-delete-columns-to-make-sorted) |
 ## Hash Table
 |  |
 | ------- |
@@ -64,6 +65,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/24-gautam/DailyProblemSolving/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/24-gautam/DailyProblemSolving/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/24-gautam/DailyProblemSolving/tree/master/1930-unique-length-3-palindromic-subsequences) |
+| [0944-delete-columns-to-make-sorted](https://github.com/24-gautam/DailyProblemSolving/tree/master/0944-delete-columns-to-make-sorted) |
 ## Simulation
 |  |
 | ------- |
