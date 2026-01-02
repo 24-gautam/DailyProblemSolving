@@ -22,6 +22,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/24-gautam/DailyProblemSolving/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [0944-delete-columns-to-make-sorted](https://github.com/24-gautam/DailyProblemSolving/tree/master/0944-delete-columns-to-make-sorted) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/24-gautam/DailyProblemSolving/tree/master/0955-delete-columns-to-make-sorted-ii) |
+| [0054-spiral-matrix](https://github.com/24-gautam/DailyProblemSolving/tree/master/0054-spiral-matrix) |
 ## Hash Table
 |  |
 | ------- |
@@ -76,6 +77,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2288-count-operations-to-obtain-zero](https://github.com/24-gautam/DailyProblemSolving/tree/master/2288-count-operations-to-obtain-zero) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/24-gautam/DailyProblemSolving/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/24-gautam/DailyProblemSolving/tree/master/2274-keep-multiplying-found-values-by-two) |
+| [0054-spiral-matrix](https://github.com/24-gautam/DailyProblemSolving/tree/master/0054-spiral-matrix) |
 ## Combinatorics
 |  |
 | ------- |
@@ -135,4 +137,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/24-gautam/DailyProblemSolving/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/24-gautam/DailyProblemSolving/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
+## Matrix
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/24-gautam/DailyProblemSolving/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
