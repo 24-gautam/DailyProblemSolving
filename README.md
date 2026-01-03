@@ -23,6 +23,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0944-delete-columns-to-make-sorted](https://github.com/24-gautam/DailyProblemSolving/tree/master/0944-delete-columns-to-make-sorted) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/24-gautam/DailyProblemSolving/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [0054-spiral-matrix](https://github.com/24-gautam/DailyProblemSolving/tree/master/0054-spiral-matrix) |
+| [0015-3sum](https://github.com/24-gautam/DailyProblemSolving/tree/master/0015-3sum) |
 ## Hash Table
 |  |
 | ------- |
@@ -132,6 +133,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/24-gautam/DailyProblemSolving/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/24-gautam/DailyProblemSolving/tree/master/2274-keep-multiplying-found-values-by-two) |
+| [0015-3sum](https://github.com/24-gautam/DailyProblemSolving/tree/master/0015-3sum) |
 ## Linked List
 |  |
 | ------- |
@@ -141,4 +143,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/24-gautam/DailyProblemSolving/tree/master/0054-spiral-matrix) |
+## Two Pointers
+|  |
+| ------- |
+| [0015-3sum](https://github.com/24-gautam/DailyProblemSolving/tree/master/0015-3sum) |
 <!---LeetCode Topics End-->
