@@ -24,6 +24,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/24-gautam/DailyProblemSolving/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [0054-spiral-matrix](https://github.com/24-gautam/DailyProblemSolving/tree/master/0054-spiral-matrix) |
 | [0015-3sum](https://github.com/24-gautam/DailyProblemSolving/tree/master/0015-3sum) |
+| [0845-longest-mountain-in-array](https://github.com/24-gautam/DailyProblemSolving/tree/master/0845-longest-mountain-in-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -100,6 +101,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/24-gautam/DailyProblemSolving/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/24-gautam/DailyProblemSolving/tree/master/1700-minimum-time-to-make-rope-colorful) |
+| [0845-longest-mountain-in-array](https://github.com/24-gautam/DailyProblemSolving/tree/master/0845-longest-mountain-in-array) |
 ## Stack
 |  |
 | ------- |
@@ -147,4 +149,9 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0015-3sum](https://github.com/24-gautam/DailyProblemSolving/tree/master/0015-3sum) |
+| [0845-longest-mountain-in-array](https://github.com/24-gautam/DailyProblemSolving/tree/master/0845-longest-mountain-in-array) |
+## Enumeration
+|  |
+| ------- |
+| [0845-longest-mountain-in-array](https://github.com/24-gautam/DailyProblemSolving/tree/master/0845-longest-mountain-in-array) |
 <!---LeetCode Topics End-->
