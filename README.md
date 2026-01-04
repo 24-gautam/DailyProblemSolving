@@ -25,6 +25,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0054-spiral-matrix](https://github.com/24-gautam/DailyProblemSolving/tree/master/0054-spiral-matrix) |
 | [0015-3sum](https://github.com/24-gautam/DailyProblemSolving/tree/master/0015-3sum) |
 | [0845-longest-mountain-in-array](https://github.com/24-gautam/DailyProblemSolving/tree/master/0845-longest-mountain-in-array) |
+| [1200-minimum-absolute-difference](https://github.com/24-gautam/DailyProblemSolving/tree/master/1200-minimum-absolute-difference) |
 ## Hash Table
 |  |
 | ------- |
@@ -136,6 +137,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/24-gautam/DailyProblemSolving/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/24-gautam/DailyProblemSolving/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [0015-3sum](https://github.com/24-gautam/DailyProblemSolving/tree/master/0015-3sum) |
+| [1200-minimum-absolute-difference](https://github.com/24-gautam/DailyProblemSolving/tree/master/1200-minimum-absolute-difference) |
 ## Linked List
 |  |
 | ------- |
