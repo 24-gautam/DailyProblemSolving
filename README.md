@@ -26,6 +26,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0015-3sum](https://github.com/24-gautam/DailyProblemSolving/tree/master/0015-3sum) |
 | [0845-longest-mountain-in-array](https://github.com/24-gautam/DailyProblemSolving/tree/master/0845-longest-mountain-in-array) |
 | [1200-minimum-absolute-difference](https://github.com/24-gautam/DailyProblemSolving/tree/master/1200-minimum-absolute-difference) |
+| [3719-longest-balanced-subarray-i](https://github.com/24-gautam/DailyProblemSolving/tree/master/3719-longest-balanced-subarray-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -35,6 +36,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/24-gautam/DailyProblemSolving/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/24-gautam/DailyProblemSolving/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/24-gautam/DailyProblemSolving/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
+| [3719-longest-balanced-subarray-i](https://github.com/24-gautam/DailyProblemSolving/tree/master/3719-longest-balanced-subarray-i) |
 ## Tree
 |  |
 | ------- |
@@ -98,6 +100,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/24-gautam/DailyProblemSolving/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/24-gautam/DailyProblemSolving/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/24-gautam/DailyProblemSolving/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
+| [3719-longest-balanced-subarray-i](https://github.com/24-gautam/DailyProblemSolving/tree/master/3719-longest-balanced-subarray-i) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -162,4 +165,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/24-gautam/DailyProblemSolving/tree/master/0070-climbing-stairs) |
+## Divide and Conquer
+|  |
+| ------- |
+| [3719-longest-balanced-subarray-i](https://github.com/24-gautam/DailyProblemSolving/tree/master/3719-longest-balanced-subarray-i) |
+## Segment Tree
+|  |
+| ------- |
+| [3719-longest-balanced-subarray-i](https://github.com/24-gautam/DailyProblemSolving/tree/master/3719-longest-balanced-subarray-i) |
 <!---LeetCode Topics End-->
