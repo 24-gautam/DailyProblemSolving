@@ -65,6 +65,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/24-gautam/DailyProblemSolving/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [2288-count-operations-to-obtain-zero](https://github.com/24-gautam/DailyProblemSolving/tree/master/2288-count-operations-to-obtain-zero) |
 | [0070-climbing-stairs](https://github.com/24-gautam/DailyProblemSolving/tree/master/0070-climbing-stairs) |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/24-gautam/DailyProblemSolving/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## String
 |  |
 | ------- |
@@ -108,6 +109,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/24-gautam/DailyProblemSolving/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [0845-longest-mountain-in-array](https://github.com/24-gautam/DailyProblemSolving/tree/master/0845-longest-mountain-in-array) |
 | [0070-climbing-stairs](https://github.com/24-gautam/DailyProblemSolving/tree/master/0070-climbing-stairs) |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/24-gautam/DailyProblemSolving/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Stack
 |  |
 | ------- |
@@ -161,6 +163,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0845-longest-mountain-in-array](https://github.com/24-gautam/DailyProblemSolving/tree/master/0845-longest-mountain-in-array) |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/24-gautam/DailyProblemSolving/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Memoization
 |  |
 | ------- |
